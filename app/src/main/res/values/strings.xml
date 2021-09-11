@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">footballApp</string>
+    <string name="merhaba_dark_mod">Merhaba Dark Mod!</string>
+    <string name="tema_de_i_tir">Tema Değiştir</string>
+    <string name="choose_theme_text">AAAAAA</string>
+    <string name="control_theme">Control Theme</string>
+</resources>
