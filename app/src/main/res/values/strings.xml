@@ -1,7 +1,13 @@
 <resources>
-    <string name="app_name">footballApp</string>
-    <string name="merhaba_dark_mod">Merhaba Dark Mod!</string>
-    <string name="tema_de_i_tir">Tema Değiştir</string>
-    <string name="choose_theme_text">AAAAAA</string>
-    <string name="control_theme">Control Theme</string>
+    <string name="app_name">Football Data</string>
+
+    <string name="empty_list">Empty List</string>
+    <string name="internet_connection_error">Please, Check your internet connection</string>
+    <string name="retry">Retry</string>
+
+    <string name="recent_fixtures">Soccer Leauge</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+
 </resources>
